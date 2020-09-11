@@ -9,7 +9,7 @@ The whole system is handled by the administrator who has all the rights to edit 
 The student can view the details by logging with their details.
 This system was developed to provide a secure, easy to use a reliable system. This was created to handle all the school-related information and save it in records.
 
-#School Management System Modules:
+# School Management System Modules:
 Registration module: In this module, the users of the system have to register themselves with all their personal details and after that, they can log in to the system
 Login module: This module page allows login for admin.
 Add module: This allows to add new users to the system database.
